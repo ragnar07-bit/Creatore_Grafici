@@ -21,3 +21,5 @@ create_charts(10, 5, 2, save_path='grafico_test.png', show=False)
 ```
 
 Il file immagine verrà salvato nella directory corrente come `grafico_partite.png` (o come specificato in `save_path`).
+
+Il file eseguibile dell'applicazione si trova nella cartella dist
